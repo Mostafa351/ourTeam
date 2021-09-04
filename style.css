@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(83, 83, 70);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.team {
+    background-color: rgb(145, 136, 124);
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(97, 22, 37);
+}
+
+button {
+    padding: 10px 15px;
+    font-weight: 700;
+    background-color: rgb(228, 48, 84);
+    color: rgb(8, 8, 8);
+}
